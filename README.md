@@ -1,2 +1,17 @@
 # One-Leetcode-Everyday
- From now on, one leetcode everyday, no joke.
+### **AYE YO LISTEN UP**
+
++ NO RAINY DAYS
++ NO SNOW DAYS
++ NO HOLIDAYS
++ NO FOURTH OF JULY
++ NO FATHER DAYS
++ NO MOTHER DAYS
++ NO CHRISTMAS DAY
+
+**FROM OCTOBER 1, 2022, ONE LEETCODE PROBLEM EVERYDAY, AINT NO DAYS OFF OUT HERE!!!**
+
+
+
+
+
