@@ -1,4 +1,4 @@
-//https://leetcode.cn/problems/reformat-phone-number/
+// https://leetcode.cn/problems/reformat-phone-number/
 
 class Solution {
 public:
