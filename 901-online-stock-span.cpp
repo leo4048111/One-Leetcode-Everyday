@@ -2,19 +2,29 @@
 
 class StockSpanner {
 public:
-    vector<int> _prices;
-    int _ans {1};
-    StockSpanner() {
+    stack<tuple<int, int>> s;
+    int curDay_{0};
 
+    StockSpanner() {
+        
     }
     
     int next(int price) {
-        _prices.push_back(price);
-        if(_prices.size() == 1) return _ans;
-        if(price >= _prices[_prices.size() - 2]) _ans++;
-        else _ans = 1;
+        int ans = 1;
+        if(s.empty()) {
+            s.push({price, ans});
+            return ans;
+        }
 
-        return _ans;
+        while(s.size() && get<0>(s.top()) <= price)
+        {
+            ans += get<1>(s.top());
+            s.pop();
+        }
+
+        s.push({price, ans});
+
+        return ans;
     }
 };
 
