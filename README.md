@@ -14,7 +14,7 @@
 ## Updates
 + Sophomore summer intern: got offer from SMG, 2022.07 ~ 2022.10
 + Junior summer intern: got offer from bilibili, 2023.06.06 ~ now
-+ Autumn Recruitment: xyzrobotics offer / kuaishou(kwai) offer / tp-link offer pending
++ Autumn Recruitment: xyzrobotics offer / kuaishou(kwai) offer / tp-link offer / xiaohongshu offer
 + The FUCKING END, No MORE LEETCODE
 
 
